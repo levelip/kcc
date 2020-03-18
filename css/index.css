@@ -1,0 +1,9 @@
+@charset "utf-8";
+@font-face {
+	font-family: 'pyfont';
+	src: url('../fonts/pyfont.ttf') format('truetype');
+}
+#index {
+	font-size: 16px;
+	font-family: pyfont;
+}

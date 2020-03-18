@@ -1,0 +1,2 @@
+kcce("用户名,用户密码,用户tk,用户服务器IP,key",key)
+api.php?apitk=

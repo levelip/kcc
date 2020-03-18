@@ -1,0 +1,31 @@
+@charset "utf-8";
+@font-face {
+	font-family: 'pyfont';
+	src: url('../fonts/pyfont.ttf') format('truetype');
+}
+#index {
+	font-size: 16px;
+	font-family: pyfont;
+}
+#submit2 {
+    font-family: pyfont;
+	font-size: 16px;
+	background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 6px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+#submit3 {
+    font-family: pyfont;
+	font-size: 16px;
+	background-color: #ff1d0b;
+    border: none;
+    color: white;
+    padding: 6px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}

@@ -1,0 +1,2 @@
+本PHPMailer版本:6.1.3
+本PHPMailer开源地址:https://github.com/PHPMailer/PHPMailer
